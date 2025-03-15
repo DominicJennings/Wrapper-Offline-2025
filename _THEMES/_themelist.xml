@@ -10,7 +10,7 @@
 	<theme id="akon" name="AKON" cc_theme_id="akon" col="1"/>
 	<theme id="toonadv" name="Toon Adventure" cc_theme_id="willie" enable="N" col="1"/>
 	<theme id="cctoonadventure" name="Toon Adventure CC" cc_theme_id="cctoonadventure" enable="N" col="1"/>
-	<theme id="ben10" name="Ben 10" cc_theme_id="ben10" col="2"/>
+	<theme id="ben10" name="Ben 10" cc_theme_id="ben10" col="1"/>
 	<theme id="bunny" name="It's Happy Bunny" cc_theme_id="bunny" enable="N" col="1"/>
 	<theme id="chowder" name="Chowder" cc_theme_id="chowder" enable="N" col="1"/>
 	<theme id="domo" name="Domo" cc_theme_id="domo" enable="N" col="1"/>
