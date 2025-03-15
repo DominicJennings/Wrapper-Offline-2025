@@ -32,12 +32,12 @@
 	<theme id="animal" name="Lil' Petz" thumb="" cc_theme_id="cc2" col="3"/>
 	<theme id="ninja" name="Chibi Ninjas" thumb="" cc_theme_id="ninja" col="3"/>
 	<theme id="vietnam" name="Jungle Warfare" thumb="" cc_theme_id="cc2" col="3"/>
-	<theme id="retro" name="Cartoon Classics" thumb="ann-stand.swf" cc_theme_id="retro" col="4"/>
-	<theme id="stick" name="Stick Figure" thumb="" cc_theme_id="stick" col="4"/>
-	<theme id="politic" name="Politics &amp; Celebrity" thumb="hilary-stand.swf" cc_theme_id="politic" col="4"/>
-	<theme id="christmas" name="Holiday &amp; Seasonal" thumb="santa-stand.swf" cc_theme_id="christmas" col="4"/>
-	<theme id="monstermsh" name="Monsters Mayhem" thumb="" cc_theme_id="monstermsh" col="4"/>
-	<theme id="startrek" name="Star Trek Quogs" cc_theme_id="startrek" enable="N" col="4"/>
+	<theme id="retro" name="Cartoon Classics" thumb="ann-stand.swf" cc_theme_id="retro" col="5"/>
+	<theme id="stick" name="Stick Figure" thumb="" cc_theme_id="stick" col="5"/>
+	<theme id="politic" name="Politics &amp; Celebrity" thumb="hilary-stand.swf" cc_theme_id="politic" col="5"/>
+	<theme id="christmas" name="Holiday &amp; Seasonal" thumb="santa-stand.swf" cc_theme_id="christmas" col="5"/>
+	<theme id="monstermsh" name="Monsters Mayhem" thumb="" cc_theme_id="monstermsh" col="5"/>
+	<theme id="startrek" name="Star Trek Quogs" cc_theme_id="startrek" enable="N" col="5"/>
         <word></word>
         <whiteword/>
         <excludeAssetIDs/>
